@@ -38,6 +38,15 @@ EB_Mitosis_Dynamics
 <img src="./Demo/GIFs/EB_Mitosis_Dynamics.gif" />
 <br /><br /><br /><br />
 
+Multi-Channel Kinetics
+<br />
+<img src="./Demo/GIFs/MultiChannelInputVideo.gif" />
+<br />
+<img src="./Demo/GIFs/MultiChannelOutputVideo.gif" />
+<br />
+<img src="./Demo/Static/MultiChannelKinetics.png" />
+<br /><br /><br /><br />
+
 Deconvolution and Super-Resolution
 <br />
 <img src="./Demo/GIFs/Deconvolution_Superresolution.gif" />
