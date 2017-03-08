@@ -11,6 +11,13 @@ For questions or comments regarding the programs, please contact <a href="mailto
 
 
 <p align="center">
+<b>Overview of the program</b>
+<br/>
+<img src="./Demo/Static/ActivityDiagram.png" />
+</p>
+<br /><br />
+
+<p align="center">
 <b>Simulated cellular processes</b>
 <br/>
 <img src="./Demo/Simulations/image1.gif" /><img src="./Demo/Simulations/image2.gif" />
@@ -38,6 +45,18 @@ EB_Mitosis_Dynamics
 <img src="./Demo/GIFs/EB_Mitosis_Dynamics.gif" />
 <br /><br /><br /><br />
 
+Deconvolution and Super-Resolution
+<br />
+<img src="./Demo/GIFs/Deconvolution_Superresolution.gif" />
+<br /><br /><br /><br />
+</p>
+<br /><br />
+
+
+<p align="center">
+<b>Automated analysis (with interactive parameter adjustment)</b>
+<br />
+
 Multi-Channel Kinetics
 <br />
 <img src="./Demo/GIFs/MultiChannelInputVideo.gif" />
@@ -46,10 +65,5 @@ Multi-Channel Kinetics
 <br />
 <img src="./Demo/Static/MultiChannelKinetics.png" />
 <br /><br /><br /><br />
-
-Deconvolution and Super-Resolution
 <br />
-<img src="./Demo/GIFs/Deconvolution_Superresolution.gif" />
-<br /><br /><br /><br />
 </p>
-
