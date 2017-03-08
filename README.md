@@ -11,6 +11,11 @@ For questions or comments regarding the programs, please contact <a href="mailto
 
 
 <p align="center">
+<b>Quick tour</b>
+<br/>
+<img src="./Demo/GIFs/Cellulyzer.gif" />
+<br /><br /><br /><br />
+
 <b>Overview of the program</b>
 <br/>
 <img src="./Demo/Static/ActivityDiagram.png" />
