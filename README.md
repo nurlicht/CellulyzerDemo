@@ -27,6 +27,26 @@ For questions or comments regarding the programs, please contact <a href="mailto
 <br /><br />
 
 <p align="center">
+<b>Automated analysis (with interactive parameter adjustment)</b>
+<br />
+
+Multi-Channel Kinetics
+<br />
+<img src="./Demo/GIFs/MultiChannelInputVideo.gif" />
+<br />
+<img src="./Demo/GIFs/MultiChannelOutputVideo.gif" />
+<br />
+<img src="./Demo/Static/MultiChannelKinetics.png" />
+<br /><br /><br /><br />
+
+Simulated centrosomes: (Left) original, (Middle) paired, and (Right) tracked
+<br />
+<img src="./Demo/GIFs/spotPairTracking.gif" />
+</p>
+<br /><br />
+
+
+<p align="center">
 <b>Interactive simulations: step-by-step</b>
 <br />
 
@@ -45,25 +65,16 @@ EB_Mitosis_Dynamics
 <img src="./Demo/GIFs/EB_Mitosis_Dynamics.gif" />
 <br /><br /><br /><br />
 
+Realistic spot (anisotropic Gaussian intensity distribution)
+<br />
+<img src="./Demo/GIFs/interactiveGaussianSynth.gif" />
+<br /><br /><br /><br />
+
 Deconvolution and Super-Resolution
 <br />
 <img src="./Demo/GIFs/Deconvolution_Superresolution.gif" />
 <br /><br /><br /><br />
-</p>
-<br /><br />
 
 
-<p align="center">
-<b>Automated analysis (with interactive parameter adjustment)</b>
-<br />
 
-Multi-Channel Kinetics
-<br />
-<img src="./Demo/GIFs/MultiChannelInputVideo.gif" />
-<br />
-<img src="./Demo/GIFs/MultiChannelOutputVideo.gif" />
-<br />
-<img src="./Demo/Static/MultiChannelKinetics.png" />
-<br /><br /><br /><br />
-<br />
 </p>
