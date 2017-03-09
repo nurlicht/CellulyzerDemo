@@ -4,6 +4,8 @@ This is a representative demonstration of functionalities offered by the program
 <br /><br />
 These functionalities have been developed primarily as a Plugin and two Macros for the common bio-image analysis software <a href="http://imagej.net/Welcome">ImageJ</a> (<a href="http://imagej.net/Fiji">Fiji</a>). Some functionalities are also available in <a href="https://github.com/nurlicht/Asymmetric-Mitosis">Javascript</a> (to be run simply with a web-browser) and <a href="https://github.com/nurlicht/OpenCV">C++</a>.
 <br /><br />
+The arXiv report is accessible here: https://arxiv.org/abs/1703.02611
+<br /><br />
 For questions or comments regarding the programs, please contact <a href="mailto:jafarpour.a.j@ieee.org">jafarpour.a.j@ieee.org</a>
 <br /><br /><br />
 </p>
