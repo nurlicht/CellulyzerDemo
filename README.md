@@ -59,7 +59,7 @@ Simulated centrosomes: (Left) original, (Middle) paired, and (Right) tracked
 
 3D Spindle
 <br />
-<img src="./Demo/GIFs/3D_Spindle.gif" />
+<img src="./Demo/GIFs/spindleSynthesis3D.gif" />
 <br /><br /><br /><br />
 
 Centrosome Pairs
